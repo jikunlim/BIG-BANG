@@ -1,4 +1,14 @@
 # BIG-BANG
+Step 1: copy the code
+
+Step 2: paste the code inside visual studio code or other IDE that support python
+
+Step 3: Run the code
+
+Step 4: open the file that is created by the code under the name "output.json"
+
+!!!There you go now you know when the BIG BANG will happen
+
     import json #import library
 
     output = [] #create a list
