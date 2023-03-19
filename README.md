@@ -1,11 +1,11 @@
 # BIG-BANG
-Step 1: copy the code
+Step 1: Copy the code
 
-Step 2: paste the code inside visual studio code or other IDE that support python
+Step 2: Paste the code inside visual studio code or other IDE that support python
 
 Step 3: Run the code
 
-Step 4: open the file that is created by the code under the name "output.json"
+Step 4: Open the file that is created by the code under the name "output.json"
 
 !!!There you go now you know when the BIG BANG will happen
 
